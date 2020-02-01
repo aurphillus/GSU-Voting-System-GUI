@@ -1,0 +1,12 @@
+president,Oliver
+president,George
+president,Harry
+president,Jack
+gsuofficers,Jacob
+gsuofficers,Noah
+gsuofficers,Charlie
+gsuofficers,Thomas
+facultyofficers,Leo
+facultyofficers,Freddie
+facultywofficers,Daniel
+facultyofficers,Max
